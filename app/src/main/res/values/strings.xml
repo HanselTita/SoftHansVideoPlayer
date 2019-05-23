@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoftHans Video Player</string>
+    <string name="play_button">play</string>
+    <string name="full_screen">Full Screen</string>
+</resources>
